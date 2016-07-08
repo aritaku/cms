@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/aritaku', newWindow: false},
-      { name: 'About', href: '', newWindow: false},
+      { name: 'About'},
       { name: 'Skills', href: '', newWindow: false},
       { name: 'Portfolio', href: '', newWindow: false}
     ],
