@@ -18,8 +18,6 @@ $(function() {
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/aritaku', newWindow: false},
       { name: 'About'},
-      { name: 'Skills', href: '', newWindow: false},
-      { name: 'Portfolio', href: '', newWindow: false}
     ],
 
     // Posts folder name
@@ -47,7 +45,7 @@ $(function() {
     fadeSpeed: 300,
 
     // Site footer text
-    footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
+    footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved by aritaku.',
 
     // Mode 'Github' for Github Pages, 'Server' for Self Hosted. Defaults
     // to Github
