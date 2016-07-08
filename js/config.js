@@ -6,10 +6,10 @@ $(function() {
     siteName: 'aritaku',
 
     // Tagline for your site
-    siteTagline: 'Your site tagline',
+    siteTagline: 'pharmaceutical programmer',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: 'aritaku19@gmail.com',
 
     // Name
     siteAuthor: 'Takuma Arimura',
@@ -17,9 +17,9 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/aritaku', newWindow: false},
-      { name: 'About' },
-      { name: 'Skills' },
-      { name: 'Potfolio'}
+      { name: 'About', href: '', newWindow: false},
+      { name: 'Skills', href: '', newWindow: false},
+      { name: 'Portfolio', href: '', newWindow: false}
     ],
 
     // Posts folder name

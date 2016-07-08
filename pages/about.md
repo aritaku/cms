@@ -3,10 +3,8 @@ layout: default
 title: About
 ---
 
-Hello! This is my awesome about page! Check out some cool links:
+I'm IT Healthcare Service Developer.
+Ritsumeikan University. Pharmaceutical Student.
 
-* [Smashing Magazine](https://www.smashingmagazine.com)
-* [TechCrunch](http://techcrunch.com/)
-* [Ars Technica](http://arstechnica.com/)
-* [Codoki](http://codoki.com/)
-* [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Twitter](https://twitter.com/aritaku03)
+* [Facebook](https://www.facebook.com/?ref=logo)
