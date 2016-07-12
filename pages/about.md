@@ -3,7 +3,8 @@ layout: default
 title: About
 ---
 
-I'm IT Healthcare Service Developer.\n
+I'm IT Healthcare Service Developer.
+
 Ritsumeikan University. Pharmaceutical Student.
 
 * [Twitter](https://twitter.com/aritaku03)
