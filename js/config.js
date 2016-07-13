@@ -6,7 +6,7 @@ $(function() {
     siteName: 'aritaku',
 
     // Tagline for your site
-    siteTagline: 'pharmaceutical programmer',
+    siteTagline: 'Pharmaceutical Programmer',
 
     // Email address
     siteEmail: 'aritaku19@gmail.com',
