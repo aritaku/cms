@@ -3,19 +3,18 @@ layout: post
 title: github中級編
 ---
 
-github中級編
 
 #Gitを使いこなして効率の良い開発を行っていきましょう！
 
-##git --helpしてみよう
+git --helpしてみよう
 
-##issueを使いこなそう
+issueを使いこなそう
 
-##branchをきってみよう
+branchをきってみよう
 
-##mergeしてみよう
+mergeしてみよう
 
-##rebaseについて調べてみよう
+rebaseについて調べてみよう
 参考(http://liginc.co.jp/web/tool/79390)
 
 ##[完全なる補足]gitを用いた開発工程の管理

@@ -3,8 +3,6 @@ layout: post
 title: Markdown記法チートシート
 ---
 
-# Markdown記法チートシート
-
 Kobitoで利用可能なMarkdown記法のチートシートです。
 
 Markdown記法の原文については、[Daring Fireball: Markdown Syntax Documentation]

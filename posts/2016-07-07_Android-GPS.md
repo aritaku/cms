@@ -3,7 +3,6 @@ layout: post
 title: AndroidでGPSロガーを作る
 ---
 
-AndroidでGPSロガーを作る
 #目次
 
 - 目的
