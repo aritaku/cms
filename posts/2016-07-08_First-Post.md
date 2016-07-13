@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Posts
+title: github中級編
 ---
 
 github中級編

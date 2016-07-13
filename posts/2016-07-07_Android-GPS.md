@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Posts
+title: AndroidでGPSロガーを作る
 ---
 
 AndroidでGPSロガーを作る
