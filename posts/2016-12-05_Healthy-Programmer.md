@@ -3,8 +3,6 @@ layout: post
 title: 目指せヘルシープログラマー: 成分比較から考えるプログラマ-にとって最適なエナジードリンク
 ---
 
-![IMG_0128.JPG](https://qiita-image-store.s3.amazonaws.com/0/36527/c69bb51d-adf9-fdd3-cb1b-a2b41a486864.jpeg "IMG_0128.JPG")
-
 #はじめに
 さてさて[Life is Tech ! Advent Calendar 2016](http://qiita.com/advent-calendar/2016/life-is-tech)の5日目の記事です。
 
